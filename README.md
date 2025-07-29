@@ -34,7 +34,7 @@ An interactive web application that uses artificial intelligence to suggest pers
 ### Prerequisites
 
 - Python 3.7+
-- OpenAI API key (get it from [OpenAI](https://platform.openai.com/))
+- OpenAI or any other API key
 
 ### Steps
 
